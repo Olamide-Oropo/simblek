@@ -1,0 +1,5 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+"More Features!!!","Simblek celebrates its fifth anniversiry","Simblek begins testing on new variant","Opening of the new branch!!"],newsTexts:
+["Simblek is planning on introducing a home delivery feature...","on the 5<small>th</small> of may simblek becomes 4 years old","An inquiry into the testing of a new passenger truck tyre","The new Apapa branch jus opened on the 5<small>th</small> of june"]
