@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Olamide-Oropo/simblek/static/css/main.38eb8c4c.css",
-    "main.js": "/Olamide-Oropo/simblek/static/js/main.91e47075.js",
-    "static/js/787.056454db.chunk.js": "/Olamide-Oropo/simblek/static/js/787.056454db.chunk.js",
-    "static/media/road-5089188.jpg": "/Olamide-Oropo/simblek/static/media/road-5089188.436c2f7360d0b4ca1499.jpg",
-    "static/media/truck-g14a6be5a7_1920.jpg": "/Olamide-Oropo/simblek/static/media/truck-g14a6be5a7_1920.05e3ce6de5778be74f3e.jpg",
-    "static/media/tyre-1714669_1920.jpg": "/Olamide-Oropo/simblek/static/media/tyre-1714669_1920.d1df1c8068487421e177.jpg",
-    "static/media/porsche-gd1d817290_1920.jpg": "/Olamide-Oropo/simblek/static/media/porsche-gd1d817290_1920.d11d28cec6765b5a2ae0.jpg",
-    "index.html": "/Olamide-Oropo/simblek/index.html",
-    "main.38eb8c4c.css.map": "/Olamide-Oropo/simblek/static/css/main.38eb8c4c.css.map",
-    "main.91e47075.js.map": "/Olamide-Oropo/simblek/static/js/main.91e47075.js.map",
-    "787.056454db.chunk.js.map": "/Olamide-Oropo/simblek/static/js/787.056454db.chunk.js.map"
+    "main.css": "/React-Deploy/static/css/main.8753580f.css",
+    "main.js": "/React-Deploy/static/js/main.de790b78.js",
+    "static/js/787.056454db.chunk.js": "/React-Deploy/static/js/787.056454db.chunk.js",
+    "static/media/road-5089188.jpg": "/React-Deploy/static/media/road-5089188.436c2f7360d0b4ca1499.jpg",
+    "static/media/truck-g14a6be5a7_1920.jpg": "/React-Deploy/static/media/truck-g14a6be5a7_1920.05e3ce6de5778be74f3e.jpg",
+    "static/media/tyre-1714669_1920.jpg": "/React-Deploy/static/media/tyre-1714669_1920.d1df1c8068487421e177.jpg",
+    "static/media/porsche-gd1d817290_1920.jpg": "/React-Deploy/static/media/porsche-gd1d817290_1920.d11d28cec6765b5a2ae0.jpg",
+    "index.html": "/React-Deploy/index.html",
+    "main.8753580f.css.map": "/React-Deploy/static/css/main.8753580f.css.map",
+    "main.de790b78.js.map": "/React-Deploy/static/js/main.de790b78.js.map",
+    "787.056454db.chunk.js.map": "/React-Deploy/static/js/787.056454db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38eb8c4c.css",
-    "static/js/main.91e47075.js"
+    "static/css/main.8753580f.css",
+    "static/js/main.de790b78.js"
   ]
 }
