@@ -1,19 +1,34 @@
 {
   "files": {
-    "main.css": "/simblek/static/css/main.b8d8fd1d.css",
-    "main.js": "/simblek/static/js/main.b1b6bc70.js",
+    "main.css": "/simblek/static/css/main.cbef2947.css",
+    "main.js": "/simblek/static/js/main.8cdde042.js",
     "static/js/787.056454db.chunk.js": "/simblek/static/js/787.056454db.chunk.js",
-    "static/media/road-5089188.jpg": "/simblek/static/media/road-5089188.436c2f7360d0b4ca1499.jpg",
     "static/media/truck-g14a6be5a7_1920.jpg": "/simblek/static/media/truck-g14a6be5a7_1920.05e3ce6de5778be74f3e.jpg",
+    "static/media/man-839604_1920.jpg": "/simblek/static/media/man-839604_1920.180d7626132154c72c37.jpg",
+    "static/media/car-888913_1920.jpg": "/simblek/static/media/car-888913_1920.bda1e93c15fc26207520.jpg",
+    "static/media/wheel-3697449_1920.jpg": "/simblek/static/media/wheel-3697449_1920.ae91f9c78b7d40df3e2c.jpg",
+    "static/media/tire-4807271_1920.jpg": "/simblek/static/media/tire-4807271_1920.0da0b3c48081d11d7d56.jpg",
+    "static/media/wheel-2682229_1920.jpg": "/simblek/static/media/wheel-2682229_1920.78efe2522d4b98f9a7b2.jpg",
+    "static/media/winter-tires-4664205_1920.jpg": "/simblek/static/media/winter-tires-4664205_1920.9084754dfd5de68a6baf.jpg",
+    "static/media/happy-1836445_1920.jpg": "/simblek/static/media/happy-1836445_1920.c1c938a4fe0beb391c6e.jpg",
+    "static/media/woman-4685862_1920.jpg": "/simblek/static/media/woman-4685862_1920.b851e77d3fc3e1627169.jpg",
+    "static/media/map-2530069_1280.jpg": "/simblek/static/media/map-2530069_1280.8afd6d59df0181067905.jpg",
     "static/media/tyre-1714669_1920.jpg": "/simblek/static/media/tyre-1714669_1920.d1df1c8068487421e177.jpg",
+    "static/media/male-7275449_1920.jpg": "/simblek/static/media/male-7275449_1920.3f8990044146605a57ee.jpg",
     "static/media/porsche-gd1d817290_1920.jpg": "/simblek/static/media/porsche-gd1d817290_1920.d11d28cec6765b5a2ae0.jpg",
+    "static/media/motorbike-7249769_1280.jpg": "/simblek/static/media/motorbike-7249769_1280.8e948282831b8a82ee6f.jpg",
+    "static/media/5172658.jpg": "/simblek/static/media/5172658.77a5e04e69772b8e4c75.jpg",
+    "static/media/white-male-1871411_1920.jpg": "/simblek/static/media/white-male-1871411_1920.7a8553cc703ffda0d2b8.jpg",
+    "static/media/tire-svgrepo-com.svg": "/simblek/static/media/tire-svgrepo-com.29083ae3ad5e703eb5287fd3b5b6a98a.svg",
+    "static/media/test-tube-5-svgrepo-com.svg": "/simblek/static/media/test-tube-5-svgrepo-com.b5d8339101efba4b84dde49bd671b0c1.svg",
     "index.html": "/simblek/index.html",
-    "main.b8d8fd1d.css.map": "/simblek/static/css/main.b8d8fd1d.css.map",
-    "main.b1b6bc70.js.map": "/simblek/static/js/main.b1b6bc70.js.map",
+    "static/media/quote-svgrepo-com.svg": "/simblek/static/media/quote-svgrepo-com.d2bfd91f4dd2a258831d6ee9509531e1.svg",
+    "main.cbef2947.css.map": "/simblek/static/css/main.cbef2947.css.map",
+    "main.8cdde042.js.map": "/simblek/static/js/main.8cdde042.js.map",
     "787.056454db.chunk.js.map": "/simblek/static/js/787.056454db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8d8fd1d.css",
-    "static/js/main.b1b6bc70.js"
+    "static/css/main.cbef2947.css",
+    "static/js/main.8cdde042.js"
   ]
 }
