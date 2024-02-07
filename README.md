@@ -21,9 +21,11 @@ This web app has five pages.
 
 ![screenshot](./public/Screenshot%20(140)-crop.png)
 
+## Continued Development
 
 This project is steadily being improved and some changes may be experienced.
 
 ### `Contact me`
+
 For futher inquiries contact me [oropohabib@gmail.com](oropohabib@gmail.com)
 
