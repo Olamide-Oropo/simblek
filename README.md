@@ -4,7 +4,7 @@
 <br>
 
 ## Description
-Simblek Web app was built has a demo tyres and wheels website for purchase,inquiries on tyres,rims and wheels. The web app is hosted on [https://Olamide-Oropo.github.io/simblek_project_portfolio](https://Olamide-Oropo.github.io/simblek_project_portfolio)
+Simblek Web app was built has a demo tyres and wheels website for purchase,inquiries on tyres,rims and wheels. The web app is hosted on [https://Olamide-Oropo.github.io/simblek_project_portfolio](https://Olamide-Oropo.github.io/simblek)
 
 This web app has five pages.
 
