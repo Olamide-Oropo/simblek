@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/simblek/static/css/main.cbef2947.css",
-    "main.js": "/simblek/static/js/main.4e1d4f58.js",
-    "static/js/787.056454db.chunk.js": "/simblek/static/js/787.056454db.chunk.js",
+    "main.css": "/simblek/static/css/main.e8757e69.css",
+    "main.js": "/simblek/static/js/main.acc6c4ed.js",
+    "static/js/787.4d290ff4.chunk.js": "/simblek/static/js/787.4d290ff4.chunk.js",
     "static/media/truck-g14a6be5a7_1920.jpg": "/simblek/static/media/truck-g14a6be5a7_1920.05e3ce6de5778be74f3e.jpg",
     "static/media/man-839604_1920.jpg": "/simblek/static/media/man-839604_1920.180d7626132154c72c37.jpg",
     "static/media/car-888913_1920.jpg": "/simblek/static/media/car-888913_1920.bda1e93c15fc26207520.jpg",
@@ -23,12 +23,12 @@
     "static/media/test-tube-5-svgrepo-com.svg": "/simblek/static/media/test-tube-5-svgrepo-com.b5d8339101efba4b84dde49bd671b0c1.svg",
     "index.html": "/simblek/index.html",
     "static/media/quote-svgrepo-com.svg": "/simblek/static/media/quote-svgrepo-com.d2bfd91f4dd2a258831d6ee9509531e1.svg",
-    "main.cbef2947.css.map": "/simblek/static/css/main.cbef2947.css.map",
-    "main.4e1d4f58.js.map": "/simblek/static/js/main.4e1d4f58.js.map",
-    "787.056454db.chunk.js.map": "/simblek/static/js/787.056454db.chunk.js.map"
+    "main.e8757e69.css.map": "/simblek/static/css/main.e8757e69.css.map",
+    "main.acc6c4ed.js.map": "/simblek/static/js/main.acc6c4ed.js.map",
+    "787.4d290ff4.chunk.js.map": "/simblek/static/js/787.4d290ff4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbef2947.css",
-    "static/js/main.4e1d4f58.js"
+    "static/css/main.e8757e69.css",
+    "static/js/main.acc6c4ed.js"
   ]
 }
