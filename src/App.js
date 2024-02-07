@@ -13,11 +13,11 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path='/simblek_project_porfolio' element={<Home />}/>
-        <Route path='/simblek_project_porfolio/contact' element={<Contactus />}/>
-        <Route path='/simblek_project_porfolio/products' element={<Products />}/>
-        <Route path='/simblek_project_porfolio/about' element={<Aboutus />}/>
-        <Route path='/simblek_project_porfolio/services' element={<Services />}/>
+        <Route path='/simblek' element={<Home />}/>
+        <Route path='/simblek/contact' element={<Contactus />}/>
+        <Route path='/simblek/products' element={<Products />}/>
+        <Route path='/simblek/about' element={<Aboutus />}/>
+        <Route path='/simblek/services' element={<Services />}/>
         <Route path='/*' element={<NotFound />}/>
       </Routes>
     </Router>
