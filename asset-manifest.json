@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/simblek/static/css/main.e8757e69.css",
-    "main.js": "/simblek/static/js/main.3d80db30.js",
+    "main.js": "/simblek/static/js/main.0afb8941.js",
     "static/js/787.4d290ff4.chunk.js": "/simblek/static/js/787.4d290ff4.chunk.js",
     "static/media/truck-g14a6be5a7_1920.jpg": "/simblek/static/media/truck-g14a6be5a7_1920.05e3ce6de5778be74f3e.jpg",
     "static/media/man-839604_1920.jpg": "/simblek/static/media/man-839604_1920.180d7626132154c72c37.jpg",
@@ -24,11 +24,11 @@
     "index.html": "/simblek/index.html",
     "static/media/quote-svgrepo-com.svg": "/simblek/static/media/quote-svgrepo-com.d2bfd91f4dd2a258831d6ee9509531e1.svg",
     "main.e8757e69.css.map": "/simblek/static/css/main.e8757e69.css.map",
-    "main.3d80db30.js.map": "/simblek/static/js/main.3d80db30.js.map",
+    "main.0afb8941.js.map": "/simblek/static/js/main.0afb8941.js.map",
     "787.4d290ff4.chunk.js.map": "/simblek/static/js/787.4d290ff4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8757e69.css",
-    "static/js/main.3d80db30.js"
+    "static/js/main.0afb8941.js"
   ]
 }
