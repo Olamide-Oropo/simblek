@@ -20,7 +20,7 @@
     gap:1rem;
     border:2px solid var(--maincolor);
     border-radius: var(--subborderradius);
-    padding: .5rem 0
+    padding: .5rem 2.5px
 }
 [role ~= "tab"]{
     width: fit-content;
@@ -114,7 +114,14 @@
 @media screen and (max-width:500px){
     [role ~= "tabpanel"]{
         display: flex;
-        width: 100%;
-        gap:0
+        width: 100vw;
+        max-width: 330px;
+        gap:0;
+    }
+    .productstab{
+        font-size: 12pt;
+    }
+    .activeproductstab{
+        font-size: 14pt;
     }
 }

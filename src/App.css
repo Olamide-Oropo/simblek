@@ -138,6 +138,8 @@ button:active{
     align-items: start;
     gap: 30px;
     justify-content: space-between;
+    min-width: 300px;
+    transition: .3s ease
 }
 .titletext,.subheadingtext{
     width: 100%;
@@ -286,6 +288,6 @@ button:active{
 }
 @media screen and (max-width:400px) {
     .titletext{
-        font-size: calc(var(--subheadingfontsize) - 5pt);
+        font-size: calc(var(--subheadingfontsize) - 7pt);
     }
 }

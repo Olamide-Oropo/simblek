@@ -16,8 +16,13 @@ export default function Products(){
     const { tyres } = JSON.parse(JSON.stringify(Tyres));
     const tabs = Object.keys(tyres)
     const [activeTab,setActiveTab] = React.useState(tabs[0])
+    const [Opacity,setOpacity] = React.useState(1)
     const handleClick = (item) => {
-        setActiveTab(item)
+        setOpacity(0)
+        setActiveTab(item);
+        setTimeout(() => {
+            setOpacity(1)
+        },400)
     }
     const Details = (size) => (
         <article className="product-details" key={size}>
@@ -58,7 +63,7 @@ export default function Products(){
                             ))
                         }
                     </section>
-                    <section className="card-container center">
+                    <section className="card-container center" style={{opacity:Opacity}}>
                         {
                             tyres[activeTab].map(item => {return Details(item)})
                         }
